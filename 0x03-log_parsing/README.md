@@ -25,4 +25,4 @@ status codes should be printed in ascending order.
 
 
 
-..........**By Simpson Iluyomade**.............
+# By Simpson I, Iluyomade
